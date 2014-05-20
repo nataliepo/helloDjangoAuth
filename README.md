@@ -3,6 +3,7 @@
 ```
 mkvirtualenv helloDjango
 git clone git@github.com:nataliepo/helloDjangoAuth
+pip install django
 pip install django-social-auth
 ```
 
